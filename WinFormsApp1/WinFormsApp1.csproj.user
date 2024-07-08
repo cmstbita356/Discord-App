@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="PL\AddFriendUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PL\AskingUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PL\CreateChannel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\CreateRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\InviteMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\PrivateMessageUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PL\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\RoomUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

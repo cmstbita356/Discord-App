@@ -1,0 +1,4 @@
+Các chức năng:
+- Đăng ký, đăng nhập
+- Kết bạn
+- Nhắn tin với bạn bè
